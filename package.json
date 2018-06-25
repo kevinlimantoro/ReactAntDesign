@@ -1,0 +1,15 @@
+{
+  "name": "new-backend",
+  "version": "1.0.0",
+  "description": "This is a working app, you just need to \"npm start\" it",
+  "main": "index.js",
+  "dependencies": {
+    "create-react-app": "^1.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
