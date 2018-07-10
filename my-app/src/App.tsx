@@ -30,6 +30,9 @@ export default class App extends React.Component {
           <Row><Button type="danger"><Link to='/DatePicker'>DatePicker</Link></Button></Row>
           <Row><Button type="primary"><Link to='/Components'>Components</Link></Button></Row>
           <Row><Button type="danger"><Link to='/Table'>Table</Link></Button></Row>
+          <Row><Button type="primary"><Link to='/Iframe'>Account</Link></Button></Row>
+          <Row><Button type="danger"><Link to='/Iframe2'>FunctionManagement</Link></Button></Row>
+          <Row><Button type="primary"><Link to='/Iframe3'>MarketVIP</Link></Button></Row>
           </Col>
           <Col span={18}>
           <Row type="flex" justify="center">
